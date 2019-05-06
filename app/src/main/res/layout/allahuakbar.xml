@@ -65,7 +65,7 @@
         android:textColor="@color/white"
         android:textSize="15sp"
         android:textStyle="bold"
-        android:visibility="g"/>
+        android:visibility="gone"/>
 
 
 
